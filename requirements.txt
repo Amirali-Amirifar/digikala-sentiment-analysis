@@ -2,7 +2,10 @@ asttokens==2.4.1
 comm==0.2.2
 debugpy==1.8.1
 decorator==5.1.1
+emojis==0.7.0
 executing==2.0.1
+filelock==3.14.0
+idna==3.7
 ipykernel==6.29.4
 ipython==8.24.0
 jedi==0.19.1
@@ -27,6 +30,9 @@ pyzmq==26.0.3
 six==1.16.0
 stack-data==0.6.3
 tornado==6.4
+tqdm==4.66.4
 traitlets==5.14.3
 tzdata==2024.1
+uritools==4.0.2
+urlextract==1.9.0
 wcwidth==0.2.13

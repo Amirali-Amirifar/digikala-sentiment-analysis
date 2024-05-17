@@ -169,3 +169,5 @@ data/digikala-products.csv
 
 # sourcery
 .sourcery.yaml
+data/digikala-comments-cleaned.csv
+data/digikala-comments-tiny.csv

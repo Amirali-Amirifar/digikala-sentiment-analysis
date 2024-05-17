@@ -1,6 +1,12 @@
 # digikala-sentiment-analysis
 Aspect based sentiment analysis on digikala products comment.
 
+### Methods:
+  1. Py-ABSA: Multilingual
+  2. Using LLM for the whole thing.(Llama,phi-3)
+  3. First Translate then English ABSA. (can use LLM for translation).
+
+
 ## Installation
 ```sh
 git clone https://github.com/Amirali-Amirifar/traffic_analysis.git

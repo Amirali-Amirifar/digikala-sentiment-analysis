@@ -1,11 +1,14 @@
 # digikala-sentiment-analysis
 Aspect based sentiment analysis on digikala products comment.
+This project was a university group project. only a portion of this code is written by me.
 
 ### Methods:
-  1. Py-ABSA: Multilingual
-  2. Using LLM for the whole thing.(Llama,phi-3)
-  3. First Translate then English ABSA. (can use LLM for translation).
-
+  1. Multilingual PyAbsa model.
+  2. English PyAbsa model.
+  3. Bert model fine tuned using ParsABSA dataset.
+  4. Using LLM for the whole thing.(Llama,phi-3, Gemma)
+  5. Using an LLM to translate then use english models to extract aspects and sentiments.
+    
 
 ## Installation
 ```sh
